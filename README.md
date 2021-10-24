@@ -18,15 +18,6 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Sreejithmadmax&background=151515&currStreakNum=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=00AEDD&fire=00AEDD&sideNums=FFFFFF&currStreakLabel=00AEDD&sideLabels=FFFFFF&dates=FFFFFF"/>
 </p>
  
-
-<h3 align="center">LANGUAGES</h3>
-
- <p align="center">
-    <img src="https://github.com/Sreejithmadmax/Sreejithmadmax/blob/main/icons/tools-01.svg"/>
-</p> 
-
- ---
- 
  <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Sreejithmadmax&theme=onedark"/>
 </p>
