@@ -19,9 +19,7 @@
 - 🌚 <b>nσσв</b>
 - 📚 <b>trчíng 2 lєαrn</b> 🚶🏻‍♂️🚶🏻‍♂️
 - ⚠️ <b>мιѕтαкєѕ нαρρєи</b> 🤷‍♂️
-
-
-[![Generic badge](https://img.shields.io/badge/For Get Movies Join -MOVIECLUB_2019-RED.svg)](https://telegram.dog/Movies_Club_2019) 
+- 🌹<b>Repos Hide Free On Follows🌹</b>
 
  
 -  ⚡ **Follow me for more**
