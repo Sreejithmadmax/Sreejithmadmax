@@ -23,11 +23,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nikhileashy/nikhileashy/main/github-metrics.svg" alt="metrix"></center>
+  <img src="https://raw.githubusercontent.com/sreejithmadmax/main/github-metrics.svg" alt="metrix"></center>
 </p>
 
  <p align="center">
-  <img src="https://github.com/nikhileashy/nikhileashy/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Sreejithmadmax/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 </details>
