@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm вℓιи∂єя 𝚃𝙶🇮🇳</h1>
 <h3 align="center">Owner of Mc Bots🇮🇳</h3>
+[![hola](https://telegra.ph/file/e4c503eba8c305e60256f.jpg)](tg://resolve?domain=ab_nero)
 
 - 🔭 I’m currently working on [Telegram](t.me/myfreak123)
 
