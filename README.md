@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **t.me/myfreak123**
 
-[![telegram badge](https://img.shields.io/badge/вℓιи∂єя 𝚃𝙶-30302f?style=for-the-badge&logo=telegram)](https://telegram.dog/myfreak123)
 [![telegram badge](https://img.shields.io/badge/★Mo𝚅𝙸𝙴𝚂_𝙲𝙻𝚄𝙱_𝟸0𝟷𝟿™★-30302f?style=for-the-badge)](https://Movies_Club_2019)
 
 
