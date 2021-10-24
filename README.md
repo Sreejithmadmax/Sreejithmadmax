@@ -19,20 +19,17 @@
 </p>
  
 
-<h3 align="center">LANGUAGES & TOOLS</h3>
+<h3 align="center">LANGUAGES</h3>
 
  <p align="center">
-    <img src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/tools-01.svg"/>
+    <img src="https://github.com/Sreejithmadmax/Sreejithmadmax/blob/main/icons/tools-01.svg"/>
 </p> 
 
  ---
  
  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=nikhileashy&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Sreejithmadmax&theme=onedark"/>
 </p>
-
-<details>
-<summary>🔹 More...</summary>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nikhileashy/nikhileashy/main/github-metrics.svg" alt="metrix"></center>
