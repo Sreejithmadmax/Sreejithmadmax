@@ -22,7 +22,7 @@
 - ⚠️ <b>мιѕтαкєѕ нαρρєи</b> 🤷‍♂️
 
 
-[![Generic badge](https://img.shields.io/badge/For Get Movies Join -MOVIECLUB_2019🌹-RED.svg)](https://telegram.dog/Movies_Club_2019) 
+[![Generic badge](https://img.shields.io/badge/For Get Movies Join -MOVIECLUB_2019-RED.svg)](https://telegram.dog/Movies_Club_2019) 
 
  
 -  ⚡ **Follow me for more**
