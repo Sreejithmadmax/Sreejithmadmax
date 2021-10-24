@@ -18,22 +18,6 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Sreejithmadmax&background=151515&currStreakNum=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=00AEDD&fire=00AEDD&sideNums=FFFFFF&currStreakLabel=00AEDD&sideLabels=FFFFFF&dates=FFFFFF"/>
 </p>
  
-<h3 align="center">CONNECT WITH ME</h3>
-
-
- <p align="center"> 
-<a href="https://codepen.io/Mc Updates" target="blank"><img align="center" src=https://github.com/Sreejithmadmax/Sreejithmadmax/blob/main/icons/codepen-01.svg" alt="Mc Updates" height="45" width="45" />
- </a>
-<a href="https://stackoverflow.com/users/naccreative" target="blank"><img align="center" src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/stackoverflow-01-01.svg" alt="naccreative" height="45" width="45" align="center" />
- </a>
- <a href="https://t.me/nacbots"><img src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/telegram-01.svg" alt="image-processing20210405-32501-doifx3" border="0" height="48" width="60" align="center" />
- </a>
-<a href="https://instagram.com/n_a_c_editz"><img src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/instagram-01.svg" alt="371907300-INSTAGRAM-ICON-TRANSPARENT-1080"
- hight="53" align="center" width="50" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>
- </a>
-</p>  
- 
-
 
 <h3 align="center">LANGUAGES & TOOLS</h3>
 
