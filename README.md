@@ -10,6 +10,20 @@
 - 👨‍💻 All of my projects are available at [Owner](t.me/myfreak123)
 
 - 📫 How to reach me **t.me/myfreak123**
+
+[![telegram badge](https://img.shields.io/badge/вℓιи∂єя 𝚃𝙶🇮🇳-30302f?style=for-the-badge&logo=telegram)](https://telegram.dog/myfreak123)
+[![telegram badge](https://img.shields.io/badge/★Ⓜ️🌀𝚅𝙸𝙴𝚂_𝙲𝙻𝚄𝙱_𝟸⭕️𝟷𝟿™★-30302f?style=for-the-badge)](https://Movies_Club_2019)
+
+
+![GitHub followers](https://img.shields.io/github/followers/Sreejithmadmax?style=social)      ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Sreejithmadmax/)
+
+- 🌚 <b>nσσв</b>
+- 📚 <b>trчíng 2 lєαrn</b> 🚶🏻‍♂️🚶🏻‍♂️
+- ⚠️ <b>мιѕтαкєѕ нαρρєи</b> 🤷‍♂️
+
+
+[![Generic badge](https://img.shields.io/badge/For Get Movies Join 👉-MOVIECLUB_2019🌹-RED.svg)](https://telegram.dog/Movies_Club_2019) 
+
  
 -  ⚡ **Follow me for more**
  
