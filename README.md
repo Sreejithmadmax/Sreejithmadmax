@@ -18,17 +18,4 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Sreejithmadmax&background=151515&currStreakNum=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=00AEDD&fire=00AEDD&sideNums=FFFFFF&currStreakLabel=00AEDD&sideLabels=FFFFFF&dates=FFFFFF"/>
 </p>
  
- <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sreejithmadmax&theme=onedark"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sreejithmadmax/main/github-metrics.svg" alt="metrix"></center>
-</p>
-
- <p align="center">
-  <img src="https://github.com/Sreejithmadmax/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-</details>
-  
+ 
