@@ -2,7 +2,7 @@
 <h3 align="center">Owner of Mc Bots🇮🇳</h3>
 
 
-[![hola](https://telegra.ph/file/53646eaac2c1586e39f6c.jpg)](tg://resolve?domain=ab_nero)
+[![hola](https://telegra.ph/file/e4c503eba8c305e60256f.jpg)](tg://resolve?domain=ab_nero)
 
 <!---
 Sreejithmadmax/Sreejithmadmax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
