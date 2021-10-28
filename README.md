@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm вℓιи∂єя 𝚃𝙶🇮🇳</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile)](https://git.io/typing-svg)
-
 <!---
 Sreejithmadmax/Sreejithmadmax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 <p><img aling="center"src="https://steamuserimages-a.akamaihd.net/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/"/></p>
 
 
